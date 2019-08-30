@@ -68,5 +68,3 @@ def plot():
     )
     fig = go.Figure(data=data, layout=layout)
     return py.iplot(fig, filename='3d-scatter-with-plane')
-
-plot_3d_chart()
