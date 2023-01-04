@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-Radial Basis Function Kernel : map input space in infinite dimensions
 
-Dies ist eine temporäre Skriptdatei.
 """
 import pandas as pd
 import numpy as np
